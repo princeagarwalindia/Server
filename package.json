@@ -1,7 +1,7 @@
 {
   "name": "websocket-server",
   "version": "1.0.0",
-  "description": "WebSocket server for dino game",
+  "description": "Lightweight WebSocket server for controller and game communication",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
